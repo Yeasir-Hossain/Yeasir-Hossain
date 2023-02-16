@@ -22,7 +22,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table width="100%"><tr><td valign="top" width="50%">
 
 
 
@@ -94,8 +94,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Yeasir-Hossain&&style=flat-square" align="center" />
 </div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
