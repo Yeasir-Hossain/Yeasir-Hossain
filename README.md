@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Yeasir, a full-time full-stack developer 👨‍💻 currently looking for opportunities 🚀</div>  
+### <div align="center">I'm Yeasir, a full-time full-stack developer 👨‍💻 currently looking for opportunities 👀</div>  
   
 
-- 🔭 I’m currently working on my new portfolio  
+- 🔭 I’m currently working on my skills
   
 
 - 🌱 I’m currently learning React Redux  
@@ -15,8 +15,11 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I love deadlines. Cause it motivates me  
+- ⚡ Fun fact: I love deadlines. Cause it motivates me
   
+  
+[![wakatime](https://wakatime.com/badge/user/ad9ffb9a-0d7b-478d-8803-6da19db7a3c7.svg)](https://wakatime.com/@ad9ffb9a-0d7b-478d-8803-6da19db7a3c7)  
+(Since 27th June, 2022)
 
 <br/>  
 
@@ -92,4 +95,5 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Yeasir-Hossain&&style=flat-square" align="center" />
+
 </div>  
